@@ -146,8 +146,8 @@ const projects = [
     shortDescription: "A personal portfolio website with Dark/Light mode toggle and Formspree contact form integration.",
     technologies: ["HTML", "CSS", "ReactJS", "Vite", "Formspree", "Framer Motion"],
     imgPath: Portfolio,
-    githubLink: "https://github.com/ibrahimeltbakh/Portfolio",
-    liveLink: ""
+    githubLink: "https://github.com/ibrahimeltbakh/MyPortfolio",
+    liveLink: "https://ibrahim-eltbakh-portfolio.netlify.app/"
   },
   {
     id: 10,
