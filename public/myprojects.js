@@ -11,7 +11,7 @@ import HangmanGame from "./imgs/Hangman Game.png";
 import GuessTheWord from "./imgs/Guess The Word Game.png";
 import BondiDesign from "./imgs/Bondi Design.png";
 import DashboardDesign from "./imgs/Dashboard Design.png";
-import MyWebsiteDesign from "./imgs/My Website Design.png";
+import MyWebsiteDesign from "./imgs/my website Design.png";
 import KasperDesign from "./imgs/Kasper Design.png";
 import LeonDesign from "./imgs/Leon Design.png";
 import Trendify from "./imgs/Trendify.png";
