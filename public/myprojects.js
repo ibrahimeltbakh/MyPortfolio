@@ -15,35 +15,43 @@ import MyWebsiteDesign from "./imgs/mywebsite.png";
 import KasperDesign from "./imgs/Kasper Design.png";
 import LeonDesign from "./imgs/Leon Design.png";
 import Trendify from "./imgs/Trendify.png";
+import Electro from "./imgs/Electro.png";
 
 const projects = [
   {
-    id: 17,
-    projectName: "Trendify",
-    category: "Next.js",
+    id: 18,
+    projectName: "Electro",
+    category: "React.js",
     description:
-      "Trendify is a modern full stack rental platform built with Next.js, offering seamless room listing, authentication via NextAuth, powerful state management with Redux Toolkit, and data fetching using React Query. Styled with Tailwind CSS, it ensures a responsive and elegant user experience.",
+      "Electro is a modern e-commerce website built with React.js. It features smooth routing with React Router DOM, efficient form handling with React Hook Form, advanced data fetching using React Query, and robust UI components powered by Tailwind CSS and Radix UI. The website offers a sleek user experience with animations using AOS and Framer Motion, plus real-time notifications via Toast and SweetAlert.",
     shortDescription:
-      "Full stack room rental platform using Next.js, NextAuth, Redux Toolkit, React Query, and Tailwind CSS.",
+      "Modern e-commerce site built with React.js, Tailwind CSS, React Query, and React Hook Form.",
     technologies: [
-      "Next.js",
-      "Tailwind CSS",
-      "NextAuth",
-      "Redux Toolkit",
-      "React Query",
-      "Axios",
-      "TypeScript",
       "React",
-      "React DOM"
+      "React DOM",
+      "React Router DOM",
+      "Tailwind CSS",
+      "React Hook Form",
+      "React Query",
+      "Framer Motion",
+      "AOS",
+      "SweetAlert2",
+      "Axios",
+      "Zod",
+      "Lucide React",
+      "React Icons",
+      "React Hot Toast",
+      "React Toastify",
+      "Radix UI",
+      "React Slick"
     ],
-    imgPath: Trendify,
-    githubLink: "https://github.com/ibrahimeltbakh/Trendify",
-    liveLink: "https://trendify-ibrahimeltbakhs-projects.vercel.app/"
+    imgPath: Electro,
+    githubLink: "https://github.com/ibrahimeltbakh/Electro",
+    liveLink: "https://electro-iti.netlify.app/"
   },
-
   {
 
-    id: 16,
+    id: 17,
     projectName: "Socially",
     category: "Next.js",
     description: "Dynamic social media Full Stack website with Next.js, featuring server-side rendering, Tailwind CSS styling, Neon database, Prisma ORM, Clerk authentication, TypeScript safety, and Uploadthing uploads.",
@@ -67,7 +75,7 @@ const projects = [
     liveLink: "https://socially-six-khaki.vercel.app/"
   },
   {
-    id: 15,
+    id: 16,
     projectName: "Easy Buy",
     category: "ReactJS",
     description: "A dynamic and responsive eCommerce website using ReactJS, integrating state management with Redux and data fetching with React Query.",
@@ -89,6 +97,29 @@ const projects = [
     imgPath: EasyBuy,
     githubLink: "https://github.com/ibrahimeltbakh/EasyBuy",
     liveLink: "https://eassybuy.netlify.app/"
+  },
+  {
+    id: 15,
+    projectName: "Trendify",
+    category: "Next.js",
+    description:
+      "Trendify is a modern full stack rental platform built with Next.js, offering seamless room listing, authentication via NextAuth, powerful state management with Redux Toolkit, and data fetching using React Query. Styled with Tailwind CSS, it ensures a responsive and elegant user experience.",
+    shortDescription:
+      "Full stack room rental platform using Next.js, NextAuth, Redux Toolkit, React Query, and Tailwind CSS.",
+    technologies: [
+      "Next.js",
+      "Tailwind CSS",
+      "NextAuth",
+      "Redux Toolkit",
+      "React Query",
+      "Axios",
+      "TypeScript",
+      "React",
+      "React DOM"
+    ],
+    imgPath: Trendify,
+    githubLink: "https://github.com/ibrahimeltbakh/Trendify",
+    liveLink: "https://trendify-ibrahimeltbakhs-projects.vercel.app/"
   },
   {
     id: 14,
