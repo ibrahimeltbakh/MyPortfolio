@@ -43,7 +43,7 @@ export default function About() {
           Technology Institute (ITI), under the Ministry of Communication and
           Information Technology (MCIT), Mansoura Branch.
         </p>
-        <p className="text-[var(--sub-title)]">Nov 2024 - Present</p>
+        <p className="text-[var(--sub-title)]">Nov 2024 - May 2025</p>
       </section>
     </section>
   );
